@@ -1,0 +1,10 @@
+[
+  {
+    "package":"pkgnews",
+    "url":"https://github.com/owenjonesuob/pkgnews"
+  },
+  {
+    "package": "suggests",
+    "url": "https://github.com/owenjonesuob/suggests"
+  }
+]
